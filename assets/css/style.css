@@ -1,0 +1,313 @@
+* {
+  text-align: justify;
+}
+
+.resume-section-heading {
+  color: #2098DF;
+  height: 30px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+
+  border-bottom: solid;
+  border-bottom-width: 2px;
+  background-color: rgba(32, 152, 223, 0.2);
+}
+
+.resume-name {
+  color: #2098DF;
+}
+
+.resume-section-heading:before {
+  background: #2098DF;
+}
+
+a {
+  color: #4f4f4f;
+  text-decoration: ;
+  text-align: left;
+}
+
+a:hover {
+  color: #2098DF;
+}
+
+
+
+hr {
+  color: #2098DF;
+}
+
+/*.ggray {
+  background: #e2e2e2;
+   box-shadow:         inset 0 0 500px #fff;
+}*/
+
+/*.work-section {
+  border: 1px solid #2098DF;
+
+
+
+  border-left-style: solid;
+  border-radius: 5px;
+}*/
+
+.itemtitle {
+  margin-top: 2px;
+
+  background-color: rgba(32, 152, 223, 0.05);
+  border-left: outset;
+  border-left-width: 20px;
+  border-left-color: #2098DF;
+  
+  /*border-left-style: solid;
+  border-left-width: 10px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border*/
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.itemtitle a {
+  text-decoration: none;
+  color: #292929;
+}
+
+.itemtitle a:hover {
+  color: #2098DF;
+}
+
+.resume-header {
+  background-color: rgba(32, 152, 223, 0.05);
+  padding-left: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+  border-top: solid;
+  border-top-width: 10px;
+  border-top-color: #2098DF;
+
+  border-left: solid;
+  border-left-width: 10px;
+  border-left-color: #2098DF;
+
+  border-right: solid;
+  border-right-width: 10px;
+  border-right-color: #2098DF;
+
+  border-bottom: solid;
+  border-bottom-width: 10px;
+  border-bottom-color: #2098DF;
+}
+
+
+
+.resume-main {
+  padding-top: 6px;
+  padding-left: 50px;
+}
+
+
+.resume-profile-image {
+  border-radius: 20px;
+  margin: auto;
+  max-width: 200px;
+}
+
+.resume-intro {
+  /*border-top: solid;
+  border-top-width: 10px;
+  border-top-color: #2098DF;*/
+
+  /*padding-bottom: 20px;*/
+  border-bottom: solid;
+  border-bottom-width: 3px;
+  border-bottom-color: #2098DF;
+}
+
+.resume-intro-intro {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-top: 20px;
+}
+
+.about_me {
+  padding-left: 20px;
+  text-align: justify;
+}
+
+
+.resume-aside {
+  padding-top: 10px;
+  border-left: solid;
+  border-left-width: 3px;
+  border-left-color: #2098DF;
+}
+
+.resume-footer {
+  background-color: #2098DF;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-top: solid;
+  border-top-width: 10px;
+  border-top-color: #2098DF;
+
+  border-left: solid;
+  border-left-width: 10px;
+  border-left-color: #2098DF;
+
+  border-right: solid;
+  border-right-width: 10px;
+  border-right-color: #2098DF;
+
+  border-bottom: solid;
+  border-bottom-width: 10px;
+  border-bottom-color: #2098DF;
+}
+
+.resume-wrapper {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0px;
+  margin: 0px;
+}
+
+.container {
+  padding: auto;
+  margin: auto;  
+}
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  text-align: center;
+  background-color: #2098DF;
+  overflow: hidden;
+  padding-left: 10px;
+
+  border-bottom: solid;
+  border-bottom-width: 10px;
+  border-bottom-color: #2098DF;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  /*float: left;*/
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0px 10px 0px;
+  text-decoration: none;
+  font-size: 17px;
+
+  
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #fff;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+/*.topnav a.active {
+  background-color: #f1f1f1;
+  color: white;
+}*/
+
+.abc{
+  padding: 0px;
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+  font-size: 16px;
+}
+
+/*a {
+  font-size: 16px;
+}*/
+
+li {
+  font-size: 16px;
+}
+
+.item-content p {
+  margin-top: 10px;
+  margin-left: 32px;
+  margin-right: 30px;
+
+}
+
+
+
+h4 {
+  font-size: 18px;
+}
+
+ol li {
+  margin-bottom: 8px;
+}
+
+.work-section {
+  margin-top: 20px;
+}
+
+/*.resume-section-heading {
+  margin-bottom: 0px;
+}*/
+
+.itemitem {
+  padding-left: 12px;
+}
+
+.uni {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #292929;
+}
+
+.uni:hover {
+  color: #2098DF;
+  cursor: pointer;
+}
+
+.technical_skills {
+  padding-left: 12px;
+}
+
+.img_caption{
+  text-align: center;
+  font-weight: bold;
+}
+
+.project_title {
+  margin-top: 50px;
+  text-align: left;
+}
+
+.project_image {
+  margin: auto;
+  border: solid;
+  border-width: 1px;
+  border-color: #2098DF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  width: 90%;
+  max-height: 800px;
+  margin-top: 10px;
+}
+
+.project_video {
+  margin: auto;
+  margin-top: 10px;
+  max-width: 90%;
+}
+
+.footer_text {
+  color: #fff;
+  text-align: center;
+}
